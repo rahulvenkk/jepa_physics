@@ -2,7 +2,6 @@ import numpy as np
 import torch.nn as nn
 from torchvision import transforms
 
-
 class ActivityRecogFeatureExtractor(nn.Module):
 
     def __int__(self):
